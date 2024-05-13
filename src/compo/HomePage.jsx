@@ -15,7 +15,7 @@ export default function HomePage(props) {
 
   return (
     <div className='mainDiv'>
-      <div> <h2 className='title'>chen mishanni</h2> </div>
+      <div> <h2 className='title'>chen mishani</h2> </div>
 
 
       <div className='roomDiv'>
